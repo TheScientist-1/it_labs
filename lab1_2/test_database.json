@@ -1,0 +1,20 @@
+{
+    "people": {
+        "schema": {
+            "name": "string",
+            "age": "integerInvl",
+            "file": "text_file",
+            "score": "real",
+            "initial": "char"
+        },
+        "rows": [
+            [
+                "John",
+                30,
+                "file1.txt",
+                85.6,
+                "J"
+            ]
+        ]
+    }
+}
